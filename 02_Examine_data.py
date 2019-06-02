@@ -1,3 +1,6 @@
+#Show Apple data head
+dfAPPL.head()
+
 #Examine Apple data
 dfAPPL.describe()
 
