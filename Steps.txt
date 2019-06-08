@@ -7,7 +7,9 @@ Univariate analysis
  - rename the Adj close if needed
  - create a histogram to see the distribution
  - Create a boxplot to illustrate the distribution of values
- - 
+ - measure linearity of cloumns
+ - check outliers
+ - check outfitting
 
 Bivariate analysis
  - Create a scatterplot to illustrate the relationship between two columns
